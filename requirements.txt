@@ -1,6 +1,6 @@
-category_encoders==2.6.1
-joblib==1.4.2
-joblib==1.2.0
-pandas==2.3.0
-scikit_learn==1.7.0
-streamlit==1.46.1
+category_encoders
+joblib
+joblib
+pandas
+scikit_learn
+streamlit
